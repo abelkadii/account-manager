@@ -1,0 +1,6 @@
+{
+    "gen-password": [94, 12],
+    "paths": {
+        "data": "static/accounts.json"
+    }
+}
